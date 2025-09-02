@@ -1,4 +1,3 @@
-# Data-Analysis
 # 📊 Blinkit Data Analysis Dashboard (Power BI)
 
 This project is a **Power BI Dashboard** built to analyze Blinkit (India’s Last Minute App) sales data. The dashboard provides key insights into sales, items, ratings, and outlet performance.
@@ -42,8 +41,7 @@ The analysis focuses on overall performance, outlet types, item types, and custo
 
 ## 🛠 Tools & Technologies Used
 - **Power BI** – Dashboard & Visualization  
-- **Dataset** – Blinkit Grocery Sales Data  
-- **GitHub** – Version control and project sharing  
+- **Dataset** – Blinkit Grocery Sales Data   
 
 ---
 
@@ -58,14 +56,4 @@ The analysis focuses on overall performance, outlet types, item types, and custo
 - Household and Dairy items have the highest average sales.  
 - Average product rating is consistent across outlet types.  
 
----
-
-## 🤝 Contribution
-Feel free to fork this repository and suggest improvements. Contributions are always welcome!
-
----
-
-## 📬 Contact
-- **Author**: Gudala Srujan Kumar  
-- **GitHub**: [Srujankumar-22](https://github.com/Srujankumar-22)
 
